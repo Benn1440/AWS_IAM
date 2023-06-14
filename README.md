@@ -22,7 +22,11 @@ After creating policies a special url is generated so an admin can login, and tr
 
 https://796341583826.signin.aws.amazon.com/console 
 
+In this instance, we tried deleting an EC2 Instance but got the below error message. 
+
 ![RoleApplication](https://github.com/Benn1440/AWS_IAM/assets/67696393/c15b1d18-aa75-4560-b55c-200bfe1e5c37)
+
+# Further Reference to AWS IAM : https://docs.aws.amazon.com/rolesanywhere/latest/userguide/introduction.html
 
 
 
