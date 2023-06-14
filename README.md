@@ -12,7 +12,7 @@ When IAM users are added to a group, they inherit all the permissions attached t
 
 A user group can contain many users and a user can belong to multiple user groups.
 
-User groups can be nested they van contain only users, and not nother user groups.
+User groups can be nested they can contain only users, and not other user groups.
 
 ![Group permission](https://github.com/Benn1440/AWS_IAM/assets/67696393/c71a31f4-2f74-45f9-ae98-c61266b26b10)
 
